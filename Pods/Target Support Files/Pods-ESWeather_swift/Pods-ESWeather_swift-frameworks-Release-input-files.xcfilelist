@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-ESWeather_swift/Pods-ESWeather_swift-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ESCategory_swift/ESCategory_swift.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
